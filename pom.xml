@@ -13,6 +13,7 @@
         <sonar.organization>mycmac</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
+   <profiles>
     <profile>
   <id>coverage</id>
   <build>
@@ -44,4 +45,5 @@
    </plugins>
   </build>
 </profile>
+   </profiles>
 </project>
