@@ -15,7 +15,7 @@ import org.centrale.projet.objet.MapSansListe;
 
 
 /**
- *
+ * Main class.
  * @author mservier
  */
 public class PLU {
